@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @malznguyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Vixies (Vi)
 
-<!---
-malznguyen/malznguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Engineer & PhD Student  
+📍 Hanoi, Vietnam
+
+Specializing in **Computer Vision** and passionate about **AI/Machine Learning**.
+
+---
+
+## 💻 Tech Stack
+
+- **Programming Languages:** Python, Go, C++, Java
+- **Frameworks & Technologies:** Node.js, Flask, TensorFlow, AWS
+
+---
+
+## 🌱 Currently Exploring
+
+- Actively exploring new research and advanced techniques within the field of **Computer Vision**.
+
+---
